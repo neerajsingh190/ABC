@@ -2,4 +2,8 @@
 first to launch
 demo file is there
 
-resolve conflict
+<<<<<<< HEAD
+
+=======
+same changes
+>>>>>>> FeatureDevelop
